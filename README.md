@@ -13,7 +13,6 @@
                           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitranjan-patel&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
                             </p>
 
-
                               ### Achievements & Trophies
                                 <img src="https://github-profile-trophy.vercel.app/?username=chitranjan-patel&theme=tokyonight" alt="Trophies" />
 
@@ -38,4 +37,3 @@
                                                             <img src="https://komarev.com/ghpvc/?username=chitranjan-patel&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
                                                               </p>
                                                               </div>
-                                                              
