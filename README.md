@@ -1,91 +1,70 @@
-<div align="center">
-  <img src="./chitranjan_premium_banner_1773478252779.png" width="100%" alt="Chitranjan's Premium Banner" />
+<!-- CYBER SECURITY BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff9f,100:000000&height=250&section=header&text=Chitranjan%20Patel&fontSize=45&fontColor=00ff9f&animation=fadeIn&fontAlignY=38&desc=Ethical+Hacker+|+Cyber+Security+Researcher&descAlignY=60&descAlign=50" />
 
-  # Hi &#128075;, I'm Chitranjan Patel
-  ### B.Tech Engineer | Ethical Hacker | Developer
+<h1 align="center">Welcome to My Cyber Lab</h1>h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Ethical+Hacker;Cyber+Security+Researcher;Open+Source+Contributor"/>
-  </div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF9F&size=28&center=true&vCenter=true&width=600&lines=Ethical+Hacker;Cyber+Security+Researcher;Full+Stack+Developer;Open+Source+Contributor" />
+</p>p>
 
-  ---
+---
 
-  ## &#128640; About Me
+# About Me
 
-  - &#127891; B.Tech Engineering Graduate
-  - - &#128187; Passionate about Coding & Cyber Security
-    - - &#128737; Ethical Hacker
-      - - &#127757; Open Source Contributor
-        - - &#127918; BGMI Lover
-         
-          - ---
+```diff
++ Name: Chitranjan Patel
++ Profession: B.Tech Engineer
++ Role: Ethical Hacker | Developer
++ Passion: Cyber Security Research
+```
 
-          ## &#128736; Tech Stack
+## Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,java,linux,git,github,nodejs,react,mysql" />
+</p>p>
 
-          <div align="center">
+## GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=chitranjan-patel&show_icons=true&theme=chartreuse-dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitranjan-patel&layout=compact&theme=chartreuse-dark" />
+</p>p>
 
-          <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,java,git,github,linux,react,nodejs,mysql"/>
+## GitHub Streak
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=chitranjan-patel&theme=chartreuse-dark" />
+</p>p>
 
-          </div>
+## Achievements
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=chitranjan-patel&theme=matrix&margin-w=15" />
+</p>p>
 
-          ---
+## Contribution Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chitranjan-patel&theme=chartreuse-dark" />
+</p>p>
 
-          ## &#128202; GitHub Stats
+## Snake Contribution Animation
+<p align="center">
+<img src="https://github.com/chitranjan-patel/chitranjan-patel/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</pp>
 
-          <div align="center">
+## Visitor Counter
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=chitranjan-patel&label=PROFILE+VIEWS&color=00ff9f&style=for-the-badge" />
+</p>p>
 
-          <img src="https://github-readme-stats.vercel.app/api?username=chitranjan-patel&show_icons=true&theme=tokyonight"/>
+## Connect With Me
+<p align="center">
+<a href="https://www.linkedin.com/in/chitranjan-kumar-patel-155674232/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>a>
+<a href="https://github.com/chitranjan-patel">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>a>
+</p>p>
 
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitranjan-patel&layout=compact&theme=tokyonight"/>
-
-          </div>
-
-          ---
-
-          ## &#128293; GitHub Streak
-
-          <div align="center">
-
-          <img src="https://streak-stats.demolab.com/?user=chitranjan-patel&theme=tokyonight"/>
-
-          </div>
-
-          ---
-
-          ## &#127942; GitHub Trophies
-
-          <div align="center">
-
-          <img src="https://github-profile-trophy.vercel.app/?username=chitranjan-patel&theme=radical&margin-w=15"/>
-
-          </div>
-
-          ---
-
-          ## &#128200; Contribution Graph
-
-          <div align="center">
-
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=chitranjan-patel&theme=react-dark"/>
-
-          </div>
-
-          ---
-
-          ## &#127760; Connect With Me
-
-          <div align="center">
-
-          <a href="https://www.linkedin.com/in/chitranjan-kumar-patel-155674232/">
-          <img src="https://skillicons.dev/icons?i=linkedin"/>
-          </a>
-
-          <a href="https://github.com/chitranjan-patel">
-          <img src="https://skillicons.dev/icons?i=github"/>
-          </a>
-
-          </div>
-
-          ---
-
-          &#11088; From [Chitranjan Patel](https://github.com/chitranjan-patel)
-          
+<br />
+<p 
+  align="center" > From <a href="https://github.com/chitranjan-patel">Chitranjan Patel</a>a> </p>p>
+</p
