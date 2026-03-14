@@ -1,7 +1,7 @@
 <div align="center">
 <img src="./chitranjan_premium_banner_1773478252779.png" width="100%" alt="Chitranjan's Premium Banner" />
 
-# Hi there, I'm Chitranjan Kumar Patel! 
+# &#128640; Hi there, I'm Chitranjan Kumar Patel! 
 
 <img src="https://readline.ai/api/typing-effect?text=Crafting%20Elite%20Software%20Solutions%20|%20Full%20Stack%20Expert%20|%20AI%20&%20ML%20Enthusiast&size=24&color=7db9ff" alt="Typing Effect" />
 
