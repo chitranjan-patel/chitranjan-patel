@@ -1,7 +1,7 @@
 <!-- CYBER SECURITY BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff9f,100:000000&height=250&section=header&text=Chitranjan%20Patel&fontSize=45&fontColor=00ff9f&animation=fadeIn&fontAlignY=38&desc=Ethical+Hacker+|+Cyber+Security+Researcher&descAlignY=60&descAlign=50" />
 
-<h1 align="center">Welcome to My Cyber Lab</h1>h1>
+<h1 align="center">Welcome to My Cyber Lab</h11>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00FF9F&size=28&center=true&vCenter=true&width=600&lines=Ethical+Hacker;Cyber+Security+Researcher;Full+Stack+Developer;Open+Source+Contributor" />
