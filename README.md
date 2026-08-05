@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Chitranjan+Kumar+Patel;B.Tech+Engineer+%7C+Developer;Ethical+Hacker+%7C+Security+Researcher;React+%7C+Next.js+%7C+Python;Building+Modern+Web+Applications;Open+to+Full-Time+Opportunities" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=Hi+ðŸ‘‹,+I'm+Chitranjan+Kumar+Patel;B.Tech+Engineer+%7C+Developer;Ethical+Hacker+%7C+Security+Researcher;React+%7C+Next.js+%7C+Python;Building+Modern+Web+Applications;Open+to+Full-Time+Opportunities" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=250&section=header&text=Chitranjan%20Kumar%20Patel&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20Engineer%20%7C%20Ethical%20Hacker%20%7C%20Full-Stack%20Developer&descAlignY=60"/>
 
@@ -8,19 +8,19 @@
 
 ---
 
-# 👨‍💻 About Me
+# ðŸ‘¨â€ðŸ’» About Me
 
 <img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-### Hi there 👋
+### Hi there ðŸ‘‹
 
 I'm **Chitranjan Kumar Patel**, a passionate **Developer & Ethical Hacker** from India.
 
-🚀 I enjoy building modern, scalable and secure web applications.
+ðŸš€ I enjoy building modern, scalable and secure web applications.
 
-🔐 I love exploring Cyber Security, Penetration Testing & Bug Hunting.
+ðŸ” I love exploring Cyber Security, Penetration Testing & Bug Hunting.
 
-🌱 Currently improving my skills in
+ðŸŒ± Currently improving my skills in
 
 - React / Next.js
 - Ethical Hacking & Security
@@ -28,7 +28,7 @@ I'm **Chitranjan Kumar Patel**, a passionate **Developer & Ethical Hacker** from
 - TypeScript & Node.js
 - UI/UX Design
 
-🎯 Looking for
+ðŸŽ¯ Looking for
 
 - Frontend / Full Stack Developer Roles
 - Security Research Opportunities
@@ -36,7 +36,7 @@ I'm **Chitranjan Kumar Patel**, a passionate **Developer & Ethical Hacker** from
 
 ---
 
-# 🌐 Connect With Me
+# ðŸŒ Connect With Me
 
 <p align="center">
 
@@ -64,7 +64,7 @@ I'm **Chitranjan Kumar Patel**, a passionate **Developer & Ethical Hacker** from
 
 ---
 
-# 👀 Profile Views
+# ðŸ‘€ Profile Views
 
 <p align="center">
 
@@ -74,38 +74,38 @@ I'm **Chitranjan Kumar Patel**, a passionate **Developer & Ethical Hacker** from
 
 ---
 
-# ⚡ Quick Highlights
+# âš¡ Quick Highlights
 
 <table>
 
 <tr>
-<td>💻 Frontend Development</td>
-<td>⭐⭐⭐⭐⭐</td>
+<td>ðŸ’» Frontend Development</td>
+<td>â­â­â­â­â­</td>
 </tr>
 
 <tr>
-<td>🔐 Ethical Hacking</td>
-<td>⭐⭐⭐⭐⭐</td>
+<td>ðŸ” Ethical Hacking</td>
+<td>â­â­â­â­â­</td>
 </tr>
 
 <tr>
-<td>⚛ React.js / Next.js</td>
-<td>⭐⭐⭐⭐⭐</td>
+<td>âš› React.js / Next.js</td>
+<td>â­â­â­â­â­</td>
 </tr>
 
 <tr>
-<td>🐍 Python & ML</td>
-<td>⭐⭐⭐⭐⭐</td>
+<td>ðŸ Python & ML</td>
+<td>â­â­â­â­â­</td>
 </tr>
 
 <tr>
-<td>📱 Responsive Design</td>
-<td>⭐⭐⭐⭐⭐</td>
+<td>ðŸ“± Responsive Design</td>
+<td>â­â­â­â­â­</td>
 </tr>
 
 <tr>
-<td>🛠 Problem Solving</td>
-<td>⭐⭐⭐⭐⭐</td>
+<td>ðŸ›  Problem Solving</td>
+<td>â­â­â­â­â­</td>
 </tr>
 
 </table>
@@ -114,7 +114,7 @@ I'm **Chitranjan Kumar Patel**, a passionate **Developer & Ethical Hacker** from
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### â­ Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=120&section=footer"/>
 
@@ -122,35 +122,35 @@ I'm **Chitranjan Kumar Patel**, a passionate **Developer & Ethical Hacker** from
 
 ---
 
-# 🚀 Tech Stack
+# ðŸš€ Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+### ðŸ’» Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,cpp" />
 </p>
 
-### ⚛ Frontend
+### âš› Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,bootstrap" />
 </p>
 
-### 🛠 Backend
+### ðŸ›  Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,flask" />
 </p>
 
-### 🔐 Security & AI
+### ðŸ” Security & AI
 
 <p>
 <img src="https://skillicons.dev/icons?i=linux,tensorflow" />
 </p>
 
-### ⚙️ Tools
+### âš™ï¸ Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker" />
@@ -160,11 +160,11 @@ I'm **Chitranjan Kumar Patel**, a passionate **Developer & Ethical Hacker** from
 
 ---
 
-# 💼 What I Do
+# ðŸ’¼ What I Do
 
 <div align="center">
 
-| 🚀 Frontend | ⚡ Backend | 🔐 Security | 🤖 AI/ML |
+| ðŸš€ Frontend | âš¡ Backend | ðŸ” Security | ðŸ¤– AI/ML |
 |-------------|------------|------------|----------|
 | React.js | Node.js | Kali Linux | Python |
 | Next.js | Express.js | Burp Suite | TensorFlow |
@@ -175,67 +175,35 @@ I'm **Chitranjan Kumar Patel**, a passionate **Developer & Ethical Hacker** from
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chitranjan-patel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitranjan-patel&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=chitranjan-patel&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chitranjan-patel&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 📌 Developer Workflow
+# ðŸ“Œ Developer Workflow
 
 ```text
-💡 Idea
-   │
-   ▼
-🎨 UI Design (Figma)
-   │
-   ▼
-⚛ React + Next.js
-   │
-   ▼
-🎯 API Integration
-   │
-   ▼
-🔐 Security Testing
-   │
-   ▼
-🚀 Testing & QA
-   │
-   ▼
-🌐 Deployment
+ðŸ’¡ Idea
+   â”‚
+   â–¼
+ðŸŽ¨ UI Design (Figma)
+   â”‚
+   â–¼
+âš› React + Next.js
+   â”‚
+   â–¼
+ðŸŽ¯ API Integration
+   â”‚
+   â–¼
+ðŸ” Security Testing
+   â”‚
+   â–¼
+ðŸš€ Testing & QA
+   â”‚
+   â–¼
+ðŸŒ Deployment
 ```
 
 ---
 
 <div align="center">
 
-## 💻 My Favorite Technologies
+## ðŸ’» My Favorite Technologies
 
 | Frontend | Backend | Database | Deployment |
 |----------|----------|----------|------------|
@@ -247,18 +215,18 @@ I'm **Chitranjan Kumar Patel**, a passionate **Developer & Ethical Hacker** from
 
 ---
 
-# 🎯 Current Focus
+# ðŸŽ¯ Current Focus
 
-- 🔐 Cyber Security Research & Penetration Testing
-- 🚀 Building scalable Frontend Applications
-- ⚡ Mastering Next.js & TypeScript
-- 🎨 Creating Premium UI/UX
-- 🌍 Open Source Contributions
-- 💼 Looking for Developer & Security Opportunities
+- ðŸ” Cyber Security Research & Penetration Testing
+- ðŸš€ Building scalable Frontend Applications
+- âš¡ Mastering Next.js & TypeScript
+- ðŸŽ¨ Creating Premium UI/UX
+- ðŸŒ Open Source Contributions
+- ðŸ’¼ Looking for Developer & Security Opportunities
 
 ---
 
-# 🚀 Featured Projects
+# ðŸš€ Featured Projects
 
 <div align="center">
 
@@ -268,7 +236,47 @@ I'm **Chitranjan Kumar Patel**, a passionate **Developer & Ethical Hacker** from
 
 <td width="50%">
 
-<h3 align="center">🌾 Crop Recommendation System</h3>
+<h3 align="center">ðŸ•¯ï¸ Ambre Candle</h3>
+
+<p align="center">
+
+A premium e-commerce platform for luxury candles. Built with modern web technologies for a smooth shopping experience.
+
+<br><br>
+
+<a href="https://www.ambrecandle.com">
+<img src="https://img.shields.io/badge/Live_Website-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">ðŸ¦· Blue Teeth Work</h3>
+
+<p align="center">
+
+A professional web application and digital presence for dental services, featuring clean design and modern UI.
+
+<br><br>
+
+<a href="https://www.blueteeth.work">
+<img src="https://img.shields.io/badge/Live_Website-00C9FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">ðŸŒ¾ Crop Recommendation System</h3>
 
 <p align="center">
 
@@ -286,7 +294,7 @@ An intelligent Machine Learning system that recommends the most suitable crops b
 
 <td width="50%">
 
-<h3 align="center">👩 Mahila Rozgar PPT</h3>
+<h3 align="center">ðŸ‘© Mahila Rozgar PPT</h3>
 
 <p align="center">
 
@@ -308,7 +316,7 @@ Interactive 15-slide web presentation on Digital Skills, ChatGPT, Canva AI for w
 
 <td width="50%">
 
-<h3 align="center">💬 Discussion Forum</h3>
+<h3 align="center">ðŸ’¬ Discussion Forum</h3>
 
 <p align="center">
 
@@ -326,7 +334,7 @@ A modern, community-driven discussion platform for technical topics with authent
 
 <td width="50%">
 
-<h3 align="center">🍽️ Restaurant Management</h3>
+<h3 align="center">ðŸ½ï¸ Restaurant Management</h3>
 
 <p align="center">
 
@@ -348,7 +356,7 @@ A comprehensive Restaurant Management & Digital Ordering System with responsive 
 
 <td width="50%">
 
-<h3 align="center">✅ TO-DO App</h3>
+<h3 align="center">âœ… TO-DO App</h3>
 
 <p align="center">
 
@@ -366,7 +374,7 @@ A minimalist, high-performance To-Do application built for productivity and task
 
 <td width="50%">
 
-<h3 align="center">🗓️ HTML Timetable</h3>
+<h3 align="center">ðŸ—“ï¸ HTML Timetable</h3>
 
 <p align="center">
 
@@ -390,49 +398,49 @@ A clean and structured educational timetable built with semantic HTML for optima
 
 ---
 
-# 🏆 Achievements
+# ðŸ† Achievements
 
 <div align="center">
 
-🥇 Built Multiple Full-Stack & ML Applications
+ðŸ¥‡ Built Multiple Full-Stack & ML Applications
 
-🔐 Ethical Hacker & Cyber Security Researcher
+ðŸ” Ethical Hacker & Cyber Security Researcher
 
-💻 Open Source Learner & Contributor
+ðŸ’» Open Source Learner & Contributor
 
-📱 Responsive UI Specialist
+ðŸ“± Responsive UI Specialist
 
-⚛ React & Next.js Enthusiast
+âš› React & Next.js Enthusiast
 
-🎯 Problem Solver
+ðŸŽ¯ Problem Solver
 
 </div>
 
 ---
 
-# 📜 Certifications
+# ðŸ“œ Certifications
 
-- ✅ Web Development (HTML, CSS, JavaScript)
-- ✅ React.js & Next.js
-- ✅ Python & Machine Learning
-- ✅ Ethical Hacking & Cyber Security
-- ✅ Responsive Web Design
-- ✅ Git & GitHub
-
----
-
-# 📈 2026 Goals
-
-- 🔐 Get CEH (Certified Ethical Hacker) Certification
-- 🚀 Launch **www.blueteeth.in** Platform
-- ⚛ Master React & Next.js Ecosystem
-- 🎨 Create Premium UI/UX Projects
-- 🌍 Contribute to Open Source
-- 💼 Land a Developer / Security Role
+- âœ… Web Development (HTML, CSS, JavaScript)
+- âœ… React.js & Next.js
+- âœ… Python & Machine Learning
+- âœ… Ethical Hacking & Cyber Security
+- âœ… Responsive Web Design
+- âœ… Git & GitHub
 
 ---
 
-# 💬 Favorite Quote
+# ðŸ“ˆ 2026 Goals
+
+- ðŸ” Get CEH (Certified Ethical Hacker) Certification
+- ðŸš€ Launch **www.blueteeth.in** Platform
+- âš› Master React & Next.js Ecosystem
+- ðŸŽ¨ Create Premium UI/UX Projects
+- ðŸŒ Contribute to Open Source
+- ðŸ’¼ Land a Developer / Security Role
+
+---
+
+# ðŸ’¬ Favorite Quote
 
 <div align="center">
 
@@ -442,7 +450,7 @@ A clean and structured educational timetable built with semantic HTML for optima
 
 ---
 
-# 🤝 Let's Connect
+# ðŸ¤ Let's Connect
 
 <div align="center">
 
@@ -470,11 +478,11 @@ A clean and structured educational timetable built with semantic HTML for optima
 
 ---
 
-# ❤️ Support
+# â¤ï¸ Support
 
 <div align="center">
 
-If you like my work, consider giving ⭐ to my repositories.
+If you like my work, consider giving â­ to my repositories.
 
 <img src="https://img.shields.io/github/followers/chitranjan-patel?label=Followers&style=social"/>
 
@@ -486,7 +494,7 @@ If you like my work, consider giving ⭐ to my repositories.
 
 <div align="center">
 
-### Thanks for Visiting My GitHub Profile ❤️
+### Thanks for Visiting My GitHub Profile â¤ï¸
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6C63FF,100:00C9FF&section=footer"/>
 
