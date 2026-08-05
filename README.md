@@ -40,11 +40,11 @@ I'm **Chitranjan Kumar Patel**, a passionate **Developer & Ethical Hacker** from
 
 <p align="center">
 
-<a href="mailto:your.email@gmail.com">
+<a href="mailto:chitranjanpatel471@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_RESUME_LINK_HERE">
+<a href="https://drive.google.com/file/d/1ckJsJ9D4iiKFK9l8QhX4lWq0ujBT9mtO/view?usp=drivesdk">
 <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 
@@ -462,11 +462,11 @@ A comprehensive Restaurant Management & Digital Ordering System with responsive 
 
 <div align="center">
 
-<a href="mailto:your.email@gmail.com">
+<a href="mailto:chitranjanpatel471@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_RESUME_LINK_HERE">
+<a href="https://drive.google.com/file/d/1ckJsJ9D4iiKFK9l8QhX4lWq0ujBT9mtO/view?usp=drivesdk">
 <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 
