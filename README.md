@@ -207,28 +207,6 @@ I'm **Chitranjan Kumar Patel**, a passionate **Developer & Ethical Hacker** from
 
 ---
 
-# 🏆 GitHub Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chitranjan-patel&theme=tokyonight"/>
-
-</div>
-
----
-
-# ⚡ Coding Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chitranjan-patel&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chitranjan-patel&theme=tokyonight"/>
-
-</div>
-
----
-
 # 📌 Developer Workflow
 
 ```text
