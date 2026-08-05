@@ -40,6 +40,14 @@ I'm **Chitranjan Kumar Patel**, a passionate **Developer & Ethical Hacker** from
 
 <p align="center">
 
+<a href="mailto:your.email@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_RESUME_LINK_HERE">
+<img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+
 <a href="https://www.linkedin.com/in/chitranjan-kumar-patel-155674232/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -453,6 +461,14 @@ A comprehensive Restaurant Management & Digital Ordering System with responsive 
 # 🤝 Let's Connect
 
 <div align="center">
+
+<a href="mailto:your.email@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_RESUME_LINK_HERE">
+<img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/chitranjan-kumar-patel-155674232/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
