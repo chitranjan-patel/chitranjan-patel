@@ -93,23 +93,27 @@ me.say_hi()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chitranjan-patel&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chitranjan-patel&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&count_private=true&cache_seconds=1800" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=chitranjan-patel&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&border_radius=12" />
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitranjan-patel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&border_radius=12&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=chitranjan-patel&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&border_radius=12" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitranjan-patel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&border_radius=12&langs_count=8&cache_seconds=1800" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=chitranjan-patel&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b35&area=true&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=chitranjan-patel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=chitranjan-patel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6&rank=SSS,SS,S,AAA,AA,A,B" />
+
+<br/><br/>
+
+![skills](https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,mongodb,mysql,linux,git,vscode,docker&perline=12)
 
 </div>
 
@@ -119,11 +123,13 @@ me.say_hi()
 
 <div align="center">
 
-[![Crop Recommendation System](https://github-readme-stats.vercel.app/api/pin/?username=chitranjan-patel&repo=Crop-Recommendation-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff)](https://github.com/chitranjan-patel/Crop-Recommendation-System)
-[![Mahila Rozgar PPT](https://github-readme-stats.vercel.app/api/pin/?username=chitranjan-patel&repo=mahila-rozgar-ppt&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff)](https://github.com/chitranjan-patel/mahila-rozgar-ppt)
-
-[![Discussion Forum](https://github-readme-stats.vercel.app/api/pin/?username=chitranjan-patel&repo=Discussion-Forum&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff)](https://github.com/chitranjan-patel/Discussion-Forum)
-[![Restaurant Management](https://github-readme-stats.vercel.app/api/pin/?username=chitranjan-patel&repo=restaurant&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff)](https://github.com/chitranjan-patel/restaurant)
+| Project | Description | Tech |
+|---|---|---|
+| [🌾 Crop Recommendation](https://github.com/chitranjan-patel/Crop-Recommendation-System) | ML system recommending crops based on soil & weather | Python, ML |
+| [👩 Mahila Rozgar PPT](https://github.com/chitranjan-patel/mahila-rozgar-ppt) | 15-slide web presentation on Digital Skills for women | Python |
+| [💬 Discussion Forum](https://github.com/chitranjan-patel/Discussion-Forum) | Community-driven platform for technical topics | HTML, CSS |
+| [🍽️ Restaurant System](https://github.com/chitranjan-patel/restaurant) | Restaurant Management & Digital Ordering System | HTML, CSS |
+| [✅ TO-DO App](https://github.com/chitranjan-patel/TO-DO-APP) | High-performance task management application | CSS |
 
 </div>
 
@@ -147,7 +153,7 @@ me.say_hi()
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chitranjan-kumar-patel-155674232/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vipul_patel0.2)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chitranjanpatel0.2?igsh=b3lnY2drZDZiMHc4)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rnpatel.patel.90)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chitranjan-patel)
 [![Website](https://img.shields.io/badge/Website-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.blueteeth.in)
