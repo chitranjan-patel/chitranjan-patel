@@ -432,7 +432,7 @@ A comprehensive Restaurant Management & Digital Ordering System with responsive 
 # 📈 2026 Goals
 
 - 🔐 Get CEH (Certified Ethical Hacker) Certification
-- 🚀 Launch **www.blueteeth.in** Platform
+- 🚀 Launched **www.blueteeth.in**, **www.blueteeth.work**, & **www.ambrecandle.com** Platforms
 - ⚛ Master React & Next.js Ecosystem
 - 🎨 Create Premium UI/UX Projects
 - 🌍 Contribute to Open Source
