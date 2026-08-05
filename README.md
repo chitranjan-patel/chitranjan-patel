@@ -175,6 +175,16 @@ I'm **Chitranjan Kumar Patel**, a passionate **Developer & Ethical Hacker** from
 
 ---
 
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/chitranjan-patel/chitranjan-patel/output/dist/github-contribution-grid-snake-dark.svg" alt="Snake Graph"/>
+
+</div>
+
+---
+
 # 📌 Developer Workflow
 
 ```text
